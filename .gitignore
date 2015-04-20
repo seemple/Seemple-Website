@@ -4,3 +4,8 @@
 */cache/*
 */cache/!index.html
 */cache/!.htaccess
+*tools/*
+maqueta.ini
+git-deploy
+path.cmd
+git-deploy
