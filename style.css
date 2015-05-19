@@ -302,8 +302,11 @@ ul.circled li:before {
     color: #1abb9c
 }
 .thin {
-    width: 70%;
-    margin: 0 auto;
+	width: 90%;
+	margin-top: 0;
+	margin-right: auto;
+	margin-bottom: 0;
+	margin-left: auto;
 }
 .dropcap {
     font-weight: 800;
